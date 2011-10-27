@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n Sambola
+app: bin/hubot -a irc -n Hubot
