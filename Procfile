@@ -1,1 +1,1 @@
-web: bin/hubot -a hubot-irc -n NSHubot
+app: bin/hubot -a hubot-irc -n NSHubot
