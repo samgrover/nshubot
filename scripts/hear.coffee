@@ -9,4 +9,4 @@ module.exports = (robot) ->
   robot.hear /vacation/i, (msg) ->
     msg.send "My last vacation didn't work out so well: http://tinyurl.com/d56ft2k"
   robot.hear /wwdc/i, (msg) ->
-    msg.send "WWDC tickets on sale now! https://developer.apple.com/wwdc/"
+    msg.send "WWDC tickets sold out in less than two hours. No joke."
