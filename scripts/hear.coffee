@@ -6,5 +6,3 @@ module.exports = (robot) ->
     msg.send "w00t!"
   robot.hear /tub\s*girl/i, (msg) ->
     msg.send "Ok, just stop. That's disgusting."
-  robot.hear /vacation/i, (msg) ->
-    msg.send "My last vacation didn't work out so well: http://tinyurl.com/d56ft2k"
