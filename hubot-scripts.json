@@ -1,5 +1,6 @@
 [
   "cheer.coffee",
+  "cowsay.coffee",
   "directions.coffee",
   "do-it-live.coffee",
   "eight-ball.coffee",
