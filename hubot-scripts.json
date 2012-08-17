@@ -1,4 +1,5 @@
 [
+  "ackbar.coffee",
   "cheer.coffee",
   "cowsay.coffee",
   "directions.coffee",
