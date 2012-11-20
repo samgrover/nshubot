@@ -1,5 +1,6 @@
 [
   "ackbar.coffee",
+  "applause.coffee",
   "cheer.coffee",
   "cowsay.coffee",
   "directions.coffee",
@@ -29,6 +30,7 @@
   "roles.coffee",
   "rules.coffee",
   "sensitive.coffee",
+  "sheits.coffee",
   "shipit.coffee",
   "stocks.coffee",
   "storage.coffee",
@@ -39,6 +41,7 @@
   "translate.coffee",
   "tweet.coffee",
   "twitter.coffee",
+  "twitter_mention.coffee",
   "twss.coffee",
   "uptime.coffee",
   "weather.coffee",
