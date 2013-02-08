@@ -33,8 +33,8 @@
   "twitter_mention.coffee",
   "twss.coffee",
   "uptime.coffee",
-  "urban.coffee",
   "weather.coffee",
+  "whatis.coffee",
   "whos-turn.coffee",
   "wikipedia.coffee"
 ]
