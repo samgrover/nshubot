@@ -3,9 +3,6 @@ module.exports = (robot) ->
     room = req.body.room
     message = req.body.message
     robot.logger.info "Message '#{message}' received for room #{room}"
-    user = robot.userForId 'broadcast'
-    user.room = room
-    user.type = 'groupchat'
-    robot.send user, "#{message}"
+    robot.messageRoom room, "#{message}"
     res.writeHead 200, {'Content-Type': 'text/plain'}
     res.end 'Thanks'
